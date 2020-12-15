@@ -1,9 +1,9 @@
 //
 //  DynamicType.swift
-//  James Lee
+//  Nocero Beguhe
 //
 //  Created by James on 10/03/19.
-//  Copyright © 2019 James Lee. All rights reserved.
+//  Copyright © 2019 Nocero Beguhe. All rights reserved.
 //
 
 import Foundation

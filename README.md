@@ -21,7 +21,7 @@ A sample project has been added to explain the fairly simple usage process.
 
 # Development
 
-* [James Lee](https://github.com/James)
+* [Nocero Beguhe](https://github.com/James)
 
 ---
 

@@ -3,7 +3,7 @@
 //  AVCalendarFramework
 //
 //  Created by James on 01/05/19.
-//  Copyright © 2019 James Lee. All rights reserved.
+//  Copyright © 2019 Nocero Beguhe. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

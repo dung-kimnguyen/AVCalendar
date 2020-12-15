@@ -1,9 +1,9 @@
 //
 //  AVCalendarViewController.swift
-//  James Lee
+//  Nocero Beguhe
 //
 //  Created by James on 08/05/19.
-//  Copyright © 2019 James Lee. All rights reserved.
+//  Copyright © 2019 Nocero Beguhe. All rights reserved.
 //
 
 import UIKit

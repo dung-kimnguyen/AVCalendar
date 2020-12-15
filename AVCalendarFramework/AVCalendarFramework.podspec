@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
                    Permission is granted to...
                   LICENSE
                 }
-    s.author             = { "James Lee" => "vyas.James@hotmail.com" }
+    s.author             = { "Nocero Beguhe" => "vyas.James@hotmail.com" }
     s.source       = { :git => "https://github.com/James/AVCalendarFramework.git", :tag => "#{s.version}" }
     s.public_header_files = "AVCalendarFramework.framework/Headers/*.h"
     s.source_files = "AVCalendarFramework.framework/Headers/*.h"

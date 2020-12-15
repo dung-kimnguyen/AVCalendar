@@ -3,7 +3,7 @@
 //  AVCalendarSampleTests
 //
 //  Created by James on 25/08/19.
-//  Copyright © 2019 James Lee. All rights reserved.
+//  Copyright © 2019 Nocero Beguhe. All rights reserved.
 //
 
 import XCTest
