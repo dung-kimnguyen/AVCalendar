@@ -2,7 +2,7 @@
 //  DynamicType.swift
 //  Nocero Beguhe
 //
-//  Created by James on 10/03/19.
+//  Created by nocero on 10/03/19.
 //  Copyright © 2019 Nocero Beguhe. All rights reserved.
 //
 

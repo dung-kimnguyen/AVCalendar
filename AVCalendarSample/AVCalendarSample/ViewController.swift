@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  SampleCalendarView
 //
-//  Created by James on 21/07/19.
+//  Created by nocero on 21/07/19.
 //  Copyright © 2019 Nocero Beguhe. All rights reserved.
 //
 

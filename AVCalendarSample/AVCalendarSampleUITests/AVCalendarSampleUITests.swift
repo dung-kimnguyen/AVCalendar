@@ -2,7 +2,7 @@
 //  AVCalendarSampleUITests.swift
 //  AVCalendarSampleUITests
 //
-//  Created by James on 25/08/19.
+//  Created by nocero on 25/08/19.
 //  Copyright © 2019 Nocero Beguhe. All rights reserved.
 //
 

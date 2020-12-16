@@ -15,13 +15,13 @@ A sample project has been added to explain the fairly simple usage process.
 ---
 # Preview
 
-![alt text](https://raw.githubusercontent.com/James/AVCalendar/master/AVCalendarSample/AVCalendarSample/Screenshot.png)
+![alt text](https://raw.githubusercontent.com/nocero/AVCalendar/master/AVCalendarSample/AVCalendarSample/Screenshot.png)
 
 ---
 
 # Development
 
-* [Nocero Beguhe](https://github.com/James)
+* [Nocero Beguhe](https://github.com/nocero)
 
 ---
 

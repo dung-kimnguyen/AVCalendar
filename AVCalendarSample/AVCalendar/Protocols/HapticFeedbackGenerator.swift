@@ -2,7 +2,7 @@
 //  HapticFeedbackGenerator.swift
 //  AVCalendarSample
 //
-//  Created by James on 30/09/19.
+//  Created by nocero on 30/09/19.
 //  Copyright © 2019 Postagic. All rights reserved.
 //
 
