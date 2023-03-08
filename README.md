@@ -10,8 +10,3 @@ A sample project has been added to explain the fairly simple usage process.
 
 ![alt text](https://raw.githubusercontent.com/nocero/AVCalendar/master/AVCalendarSample/AVCalendarSample/Screenshot.png)
 
----
-
-# Development
-
-* [Nocero Beguhe](https://github.com/nocero)
