@@ -1,9 +1,9 @@
 //
 //  DynamicType.swift
-//  Nocero Beguhe
+//  Dung Kim Nguyen
 //
 //  Created by nocero on 10/03/19.
-//  Copyright © 2019 Nocero Beguhe. All rights reserved.
+//  Copyright © 2019 Dung Kim Nguyen. All rights reserved.
 //
 
 import Foundation

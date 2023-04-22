@@ -1,9 +1,9 @@
 //
 //  AVCustomCalendarYearCell.swift
-//  Nocero Beguhe
+//  Dung Kim Nguyen
 //
 //  Created by nocero on 06/05/19.
-//  Copyright © 2019 Nocero Beguhe. All rights reserved.
+//  Copyright © 2019 Dung Kim Nguyen. All rights reserved.
 //
 
 import UIKit

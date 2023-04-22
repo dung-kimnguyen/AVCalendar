@@ -3,7 +3,7 @@
 //  SampleCalendarView
 //
 //  Created by nocero on 21/07/19.
-//  Copyright © 2019 Nocero Beguhe. All rights reserved.
+//  Copyright © 2019 Dung Kim Nguyen. All rights reserved.
 //
 
 import UIKit
